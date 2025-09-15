@@ -273,9 +273,6 @@ https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f&h_user-agent=VAVOO/2.6&h
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -402,6 +399,9 @@ https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55&h_user-agent=VAVOO/2.6&h
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -409,6 +409,9 @@ https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7&h_user-agent=VAVOO/2.6&h_
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
+https://vavoo.to/vavoo-iptv/play/2890008905a6ae9fa14809&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ROMANCE (V) (2)
 https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
@@ -509,9 +512,6 @@ https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722&h_user-agent=VAVOO/2.6&h
 
 #EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 9 (V) (2)
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
-https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
